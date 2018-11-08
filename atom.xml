@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WKBP</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wkbp.github.io/"/>
+  <updated>2018-11-08T09:18:58.572Z</updated>
+  <id>https://wkbp.github.io/</id>
+  
+  <author>
+    <name>wkbp</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018年11月8日股市评论</title>
+    <link href="https://wkbp.github.io/2018/11/08/20181108/"/>
+    <id>https://wkbp.github.io/2018/11/08/20181108/</id>
+    <published>2018-11-08T00:00:00.000Z</published>
+    <updated>2018-11-08T09:18:58.572Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年11月8日股市评论。</p><a id="more"></a><table><thead><tr><th></th><th>k线</th><th>成交量</th><th>趋势</th><th>看法</th></tr></thead><tbody><tr><td>上证</td><td>中等阴实体</td><td>高于平均成交量</td><td>下跌</td><td>空</td></tr><tr><td>上证50</td><td>中等阴实体</td><td>低平均成交量</td><td>震荡</td><td>关注</td></tr></tbody></table><p><img src="https://wx2.sinaimg.cn/mw690/005Z1Czdly1fx0rnegd1kj313v0pc48o.jpg" alt="上证" title="上证"><br><img src="https://wx1.sinaimg.cn/mw690/005Z1Czdly1fx0rnjt3gej30jv0hjjux.jpg" alt="上证50" title="上证"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年11月8日股市评论。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="stock" scheme="https://wkbp.github.io/categories/stock/"/>
+    
+    
+      <category term="stock" scheme="https://wkbp.github.io/tags/stock/"/>
+    
+  </entry>
+  
+</feed>
